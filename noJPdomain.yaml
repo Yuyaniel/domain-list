@@ -4,4 +4,4 @@ payload:
 - DOMAIN-KEYWORD,javdb
 # 匹配 hanime1.me 及其所有子域名
 - DOMAIN-SUFFIX,hanime1.me
-
+- DOMAIN-KEYWORD,18comic
